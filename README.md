@@ -22,7 +22,7 @@ in console.
 
 # How To Use TwohundredIQ
 
-![alt text](https://imgur.com/Y5D030I)
+![alt text](https://i.imgur.com/Y5D030I.png)
 
 This is what you'll come to when first running the script.
 
@@ -32,7 +32,7 @@ Anyways type start and hit enter! The program will check to see if LonelyScreen 
 
 Once you reach this screen:
 
-![alt text](https://imgur.com/tFvH83O)
+![alt text](https://i.imgur.com/tFvH83O.png)
 
 You will have to read what it says and make sure you are connected to LonelyScreen with the game ready to go.
 
