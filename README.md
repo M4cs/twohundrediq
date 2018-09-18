@@ -20,6 +20,12 @@ python setup.py -install
 ```
 in console.
 
+From there just run:
+```
+python twohundrediq
+```
+in console.
+
 # How To Use TwohundredIQ
 
 ![alt text](https://i.imgur.com/Y5D030I.png)
