@@ -55,3 +55,7 @@ Whenever an update comes out you will be able to run:
 pip install --upgrade twohundrediq
 ```
 
+# Credit:
+
+davidhariri - https://gist.github.com/davidhariri/8010402bc74dcaa5581cef1f9baf48ff
+  helped a lot with parsing text and requesting searches
