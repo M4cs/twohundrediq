@@ -48,7 +48,7 @@ def checkLonelyScreen():
             pass
         else:
             os.system("cls")
-            print("[!] Error: LonelyScreen couldn't be found running! [!]\n[!] Closing Out. Please Re-Run with LonelyScreen Open! [!]")
+            print("[!] Error: LonelyScreen couldn't be found running! [!]")
     except KeyboardInterrupt:
         exit()
 
@@ -274,4 +274,4 @@ python's OCR capabailities. Have Fun! And go win some big bucks!
             print("[!] Error Unknown Selection Made!")
 
 if __name__ == "__main__":
-startmenu()
+    startmenu()
