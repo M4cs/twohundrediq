@@ -72,7 +72,6 @@ def screenshot():
     im = ImageGrab.grab()
     im.save("screenshot.jpg", "JPEG")
     print("[!] Screen Grabbed! [!]")
-    read()
     time.sleep(0.2)
     results = []
     top_windows = []
@@ -81,6 +80,7 @@ def screenshot():
         if "command prompt" in i[1].lower():
             win32gui.ShowWindow(i[0],5)
             win32gui.SetForegroundWindow(i[0])
+    read()
     clearmenu()
 
 
