@@ -2,11 +2,19 @@
 
 HQ Trivia Bot for Windows Using LonelyScreen
 
+# Changelogs:
+
+Starting from v1.5
+
+**1.5:**
+*- Fixed PrettyTable requirement. Shouldn't need to import PrettyTable since you don't use it!*
 # Requirements:
 
 In order to run twohundrediq bot you must have a few pre-requisets installed!
 
 Apart from Python Modules it will help to have already installed Microsoft Build Tools ([available here](https://www.microsoft.com/en-us/download/details.aspx?id=48159)).
+
+You will also need to install Tesseract OCR and py32win. Pip Reqs will take care of the rest of it :)
 
 To install this through pip simply type:
 ```
@@ -20,6 +28,8 @@ To install this from this repo clone or download the repo, cd into the directory
 python setup.py -install
 ```
 in console.
+
+**Make Sure To Add Tesseract To Your PATH or Change the dir in Python3/Scripts/pytesseract.py. The default directory for Tesseract is "C:\Program Files(x86)\Tesseract-OCR".**
 
 From there just run:
 ```
