@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: twohundrediq
+Version: 1.4
+Summary: HQ Trivia Bot For Windows and iPhone
+Home-page: https://github.com/M4cs/twohundrediq
+Author: Max Bridgland
+Author-email: mabridgland@protonmail.com
+License: MIT
+Description: This python package lets you read LonelyScreen and read HQ Trivia questions and answers then looking them up and returing the correct answer!
+Keywords: hq trivia bot answer auto lookup ocr text recognition
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Natural Language :: English
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.7

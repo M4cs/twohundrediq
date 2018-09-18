@@ -1,16 +1,18 @@
 
 #!/usr/bin/python3
-from setuptools import setup
+from setuptools import setup, find_packages
+from os import path
+from io import open
 
 setup(
     name='twohundrediq',
-    version='1.0',
+    version='1.4',
     description='HQ Trivia Bot For Windows and iPhone',
     long_description='This python package lets you read LonelyScreen and read HQ Trivia questions and answers then looking them up and returing the correct answer!',
     author='Max Bridgland',
     license='MIT',
     classifiers=[
-        'Development Status :: 3 - Alpha',
+        'Development Status :: 5 - Production/Stable',
         'Environment :: Console',
         'Intended Audience :: Developers',
         'Intended Audience :: Information Technology',
@@ -23,7 +25,7 @@ setup(
     keywords="hq trivia bot answer auto lookup ocr text recognition",
     author_email='mabridgland@protonmail.com',
     url='https://github.com/M4cs/twohundrediq',
-    packages=['twohundrediq'],
+    packages=find_packages(exclude=['contrib', 'docs', 'tests']),
     scripts=['bin/twohundrediq'],
     install_requires=[
         "colorama==0.3.9",
