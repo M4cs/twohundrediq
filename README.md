@@ -1,5 +1,6 @@
 # TwoHundredIQ
 [![Build Status](https://travis-ci.org/M4cs/twohundrediq.svg?branch=master)](https://travis-ci.org/M4cs/twohundrediq)
+
 HQ Trivia Bot for Windows Using LonelyScreen
 
 # Requirements:
