@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 from PIL import Image, ImageEnhance, ImageGrab
-from prettytable import PrettyTable
 import pytesseract, argparse, os, cv2, sys, psutil, win32gui, win32ui, win32com.client, time, win32api, win32con, nltk, cv2, crayons, wikipedia
 
 nltk.download("stopwords")

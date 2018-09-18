@@ -6,7 +6,7 @@ from io import open
 
 setup(
     name='twohundrediq',
-    version='1.4',
+    version='1.5',
     description='HQ Trivia Bot For Windows and iPhone',
     long_description='This python package lets you read LonelyScreen and read HQ Trivia questions and answers then looking them up and returing the correct answer!',
     author='Max Bridgland',
