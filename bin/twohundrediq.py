@@ -199,8 +199,6 @@ Required Programs:
 - HQ Trivia
 
 [!] WARNING: NO ANSWERS ARE 100% POSITIVE TO BE TRUE! [!]
-[!] SOME QUESTIONS MAY MESS W/ THE BOTS MIND AND      [!]
-[!] CONFUSE THE SHIT OUTTA IT!                        [!]
     """)
     options = {}
     options['help'] = 'Help Menu'
