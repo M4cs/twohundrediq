@@ -1,1 +1,3 @@
 language: python
+sudo: enabled
+os: windows
