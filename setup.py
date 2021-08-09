@@ -37,7 +37,7 @@ setup(
         "psutil==5.4.7",
         "pypiwin32==223",
         "pytesseract==0.2.4",
-        "pywin32==223",
+        "pywin32==301",
         "pywin32-ctypes==0.2.0",
         "tesseract==0.1.3",
         "wikipedia==1.4.0"
