@@ -33,7 +33,7 @@ setup(
         "nltk==3.3",
         "numpy==1.15.1",
         "opencv-python==3.4.3.18",
-        "Pillow==5.2.0",
+        "Pillow==8.3.2",
         "psutil==5.4.7",
         "pypiwin32==223",
         "pytesseract==0.2.4",
