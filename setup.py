@@ -30,7 +30,7 @@ setup(
     install_requires=[
         "colorama==0.3.9",
         "crayons==0.1.2",
-        "nltk==3.3",
+        "nltk==3.6.3",
         "numpy==1.15.1",
         "opencv-python==3.4.3.18",
         "Pillow==5.2.0",
