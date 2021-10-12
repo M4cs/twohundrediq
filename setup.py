@@ -32,7 +32,7 @@ setup(
         "crayons==0.1.2",
         "nltk==3.3",
         "numpy==1.15.1",
-        "opencv-python==3.4.3.18",
+        "opencv-python==4.2.0.32",
         "Pillow==5.2.0",
         "psutil==5.4.7",
         "pypiwin32==223",
