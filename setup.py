@@ -31,7 +31,7 @@ setup(
         "colorama==0.3.9",
         "crayons==0.1.2",
         "nltk==3.3",
-        "numpy==1.15.1",
+        "numpy==1.22.0",
         "opencv-python==3.4.3.18",
         "Pillow==5.2.0",
         "psutil==5.4.7",
